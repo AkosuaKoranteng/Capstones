@@ -1,0 +1,7 @@
+
+ The total number of tasks in the task manager is 2
+ The total number of completed tasks in the task manager is 0
+ The total number of incomplete tasks in the task manager is 2
+ The total number of incomplete overdue tasks is 2
+ The percentage of uncompleted tasks is 100.0
+ The percentage of overdue tasks is 100.0

@@ -1,0 +1,36 @@
+
+
+		admin
+  The total number of tasks for this user is: 2
+ The percentage of the total number of tasks assigned to this user is: 100.0
+ The percentage of assigned tasks completed is: 0.0
+ The percentage of assigned tasks that are incomplete is: 0.0
+ The percentage of assigned tasks that are overdue is: 0.0
+
+		Akosua
+  The total number of tasks for this user is: 0
+ The percentage of the total number of tasks assigned to this user is: 0
+ The percentage of assigned tasks completed is: 0
+ The percentage of assigned tasks that are incomplete is: 0
+ The percentage of assigned tasks that are overdue is: 0
+
+		Mary
+  The total number of tasks for this user is: 0
+ The percentage of the total number of tasks assigned to this user is: 0
+ The percentage of assigned tasks completed is: 0
+ The percentage of assigned tasks that are incomplete is: 0
+ The percentage of assigned tasks that are overdue is: 0
+
+		Thomas
+  The total number of tasks for this user is: 0
+ The percentage of the total number of tasks assigned to this user is: 0
+ The percentage of assigned tasks completed is: 0
+ The percentage of assigned tasks that are incomplete is: 0
+ The percentage of assigned tasks that are overdue is: 0
+
+		Irene
+  The total number of tasks for this user is: 0
+ The percentage of the total number of tasks assigned to this user is: 0
+ The percentage of assigned tasks completed is: 0
+ The percentage of assigned tasks that are incomplete is: 0
+ The percentage of assigned tasks that are overdue is: 0
